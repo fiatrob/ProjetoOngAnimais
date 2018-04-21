@@ -8,3 +8,4 @@ import dombosco.dominio.Cliente;
 public interface ClienteRepository extends JpaRepository<Cliente, Long>{
 
 }
+ 

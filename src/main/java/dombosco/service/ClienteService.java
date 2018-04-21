@@ -11,7 +11,7 @@ import dombosco.dominio.Cliente;
 import dombosco.repository.ClienteRepository;
 
 @Service
-public class ClienteService {
+public class ClienteService { 
 
 	/*
 	 * O propósito de @Autowired é injtetar uma instância da classe declarada como

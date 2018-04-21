@@ -26,7 +26,7 @@ public class Cliente implements Serializable {
 	private String referencia;
 	private String telReferencia;
 	private String tipo;
-	
+	 
 
 	@Column(nullable = true, updatable = true)
     @Temporal(TemporalType.TIMESTAMP)
